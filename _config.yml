@@ -1,6 +1,6 @@
 # Site settings
-title: Uzziel's Simpler GitHub Page
-description: A blog about things that I like
+title: Uzziel Perez
+description: Uzziel Perez GitHub Page
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 url: http://uzzieparticlez.github.io
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
@@ -8,7 +8,7 @@ url: http://uzzieparticlez.github.io
 
 # User settings
 username: Uzziel Perez
-user_description: Novice Particle Hunter. Football Nerd and Science Toys Collector.
+user_description: Novice Particle Hunter. Open Science Advocate. Football Nerd and Science Toys Collector.
 user_title: High Energy Physics PhD student
 email: cperez3@crimson.ua.edu
 twitter_username: https://twitter.com/Uzziesh
