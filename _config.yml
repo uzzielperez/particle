@@ -2,7 +2,9 @@
 title: Uzziel's Simpler GitHub Page
 description: A blog about things that I like
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
+url: http://uzzieparticlez.github.io
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
 
 # User settings
 username: Uzziel Perez
